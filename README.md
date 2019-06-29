@@ -1,6 +1,9 @@
 # Code Forces Problems Solutions
 Solutions to some Codeforces problems in Java
 #### CF-A Problems
+Problems are ordered based on Dr.Mostafa Saad's Sheet
+https://docs.google.com/spreadsheets/d/1iJZWP2nS_OB3kCTjq8L6TrJJ4o-5lhxDOyTaocSYc-k
+
 
 | #             | Problem       | Code  |
 | ------------- |:-------------:| -----:|
